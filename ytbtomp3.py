@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
-from pytube import YouTube
+from pytubefix import YouTube
 from pytube.exceptions import RegexMatchError, VideoUnavailable
 import threading
 import os
